@@ -1,0 +1,12 @@
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\bin\Debug\OrnekProjeSql.exe.config
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\bin\Debug\OrnekProjeSql.exe
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\bin\Debug\OrnekProjeSql.pdb
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\obj\Debug\OrnekProjeSql.csproj.AssemblyReference.cache
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\obj\Debug\OrnekProjeSql.csproj.SuggestedBindingRedirects.cache
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\obj\Debug\OrnekProjeSql.Form1.resources
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\obj\Debug\OrnekProjeSql.Properties.Resources.resources
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\obj\Debug\OrnekProjeSql.csproj.GenerateResource.cache
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\obj\Debug\OrnekProjeSql.csproj.CoreCompileInputs.cache
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\obj\Debug\OrnekProjeSql.exe
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\obj\Debug\OrnekProjeSql.pdb
+C:\Users\stajyer.yazilim\source\repos\OrnekProjeSql\OrnekProjeSql\obj\Debug\OrnekProjeSql.Form2.resources
